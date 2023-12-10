@@ -1,0 +1,202 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding:0;
+  }
+
+  header img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  nav {
+    background-color: #555;
+    display: flex;
+    justify-content: center;
+    padding: 1em 0;
+  }
+
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1em;
+    padding: 0.5em 1em;
+    border-radius: 4px;
+    transition: background-color 0.3s ease-in-out;
+  }
+
+  nav a:hover {
+    background-color: rgb(0, 187, 255);
+  }
+
+  .section {
+    padding: 2em;
+    text-align: center;
+  }
+
+  .section h2 {
+    color: #333;
+  }
+
+  .logo-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 1em;
+  }
+
+  .logo {
+    max-width: 150px;
+    height: auto;
+    margin: 1em;
+  }
+
+  #welcome {
+    background-image: url('https://media.tenor.com/W82tCP9YhcUAAAAC/chiron-bugatti.gif');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: auto;
+    
+  }
+
+  #welcome h2 {
+    color: #ffffff;
+  }
+
+  #welcome p {
+    color: #eee;
+    margin-bottom: 1em;
+  }
+
+  #services {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 2em;
+    margin: 2em 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .service-box {
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    padding: 1.5em;
+    margin: 1em;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    width: 80%; /* Adjust the width as needed */
+  }
+
+  .service-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+
+  .service-box h3 {
+    color: #333;
+    margin-bottom: 0.5em;
+  }
+
+  .service-box p {
+    color: #666;
+  }
+  #login {
+    background-color: #f8f8f8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column; /* Updated to column */
+    align-items: center;
+    text-align: center;
+  }
+
+  .login-box {
+    background-color: #999;
+    border-radius: 8px;
+    padding: 1.5em;
+    margin: 1em;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    width: 45%; /* Adjust the width as needed */
+  }
+
+  .login-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+
+  .login-box h3 {
+    color: #333;
+    margin-bottom: 0.5em;
+  }
+
+  .login-box p {
+    color: #333;
+  }
+  #contact {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 2em;
+    margin: 2em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
+
+  .contact-form {
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    padding: 2em;
+    margin: 1em;
+    width: 45%; /* Adjust the width as needed */
+  }
+
+  .contact-form label {
+    display: block;
+    margin-bottom: 0.5em;
+    color: #333;
+  }
+
+  .contact-form input,
+  .contact-form textarea,
+  .contact-form select {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  .contact-form button {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+
+  .contact-form button:hover {
+    background-color: #555;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+  }
