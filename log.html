@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>log in</title>
+    <link rel="stylesheet" type="text/css" href="css/log.css">
+    <script>
+        function validateForm() {
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+
+            if (username === "" || password === "") {
+                alert("Veuillez remplir tous les champs.");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    
+
+    <div class="background">
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+    
+    <form method="post" action="login.php" onsubmit="return validateForm()">
+        <h3>Se Connecter</h3>
+
+        <label for="username">Login</label>
+        <input type="text" placeholder="e-mail" id="username" name="username">
+
+        <label for="password">Mot de Passe</label>
+        <input type="password" placeholder="Mot de Passe" id="password" name="password">
+
+        <button type="submit">Log In</button>
+        <div class="hyp">
+            <a href="account.html"><br>Créer un compte</a><br><br>
+            <a href="homepage.html">Accueil</a>
+        </div>
+    </form>
+</body>
+</html>

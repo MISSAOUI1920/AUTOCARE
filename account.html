@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/styleform.css">
+    <script src="js/country.js"></script>
+    <script src="js/passcheck.js"></script>
+    <title>Account </title>
+    
+</head>
+
+
+<body>
+    <header>
+        <a href="homepage.html">
+            <img src="photo/logo.png" alt="ValuRide Logo" class="logo">
+        </a>    
+    </header>
+
+    <h2>Create Your Accouunt For Free</h2>
+
+    <form id="registrationForm" action="form.php" method="post">
+
+        <label for="nom" class="l">Name :</label>
+        <input type="text" id="nom" name="nom" required>
+
+        <label for="prenom" class="l">First Name :</label>
+        <input type="text" id="prenom" name="prenom" required>
+
+        <label for="email" class="l">E-mail :</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="pwd" class="l">Password :</label>
+        <input type="password" id="pwd" name="pwd" required>
+
+        <label for="cpwd" class="l">Confirm Your Password :</label>
+        <input type="password" id="cpwd" name="cpwd" required>
+
+        <p id="errors-msg" style="color: rgb(255, 0, 0);"></p>
+        <p id="error-msg" style="color: red;"></p>
+        <p id="succ-msg" style="color: rgb(0, 255, 145);"></p>
+
+        <label for="dateN" class="l">Birthdate :</label>
+        <input type="date" id="dateN" name="dateN" required>
+
+        <label for="countries" class="l">Select a country:</label>
+        <select id="countries" name="countries"></select>
+
+        <label for="sexe" class="l">Sex :</label>
+        <select id="sexe" name="sexe" required>
+            <option value="homme">Male</option>
+            <option value="femme">Female</option>
+        </select>
+
+
+        <div class="ch">
+        <p class="l">avez-vous un compte ? <a href="log.html" class="l"><br>Connectez ici</a></p>
+         </div>
+        <div class="button-container">
+        <button class="su" type="submit">Submit</button>
+        <button class="re" type="reset">Reset</button>
+        </div>
+    </form>
+   
+</body>
+
+</html>

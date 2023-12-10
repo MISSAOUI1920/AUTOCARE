@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/modify.css">
+    <script src="js/country.js"></script>
+    <script src="passcheck.js"></script>
+    
+    <title>Modifier vos Informations</title>
+</head>
+
+<body>
+    <header>
+        <a href="homepage.html">
+            <img src="photo/logo.png" alt="ValuRide Logo" class="logo">
+        </a>    
+        <nav>
+            <a href="homepage.html">Accueil</a>
+            <a href="profile.php">Profile</a>
+            <a href="logout.php">Se déconnecter</a>
+        </nav>
+    </header>
+
+    <h2>Modifier vos Informations</h2>
+
+    <form id="modifyForm" action="modify.php" method="post">
+
+        <label for="nom" class="l">Nom :</label>
+        <input type="text" id="nom" name="nom">
+
+        <label for="prenom" class="l">Prénom :</label>
+        <input type="text" id="prenom" name="prenom">
+
+        <label for="pwd" class="l">Nouveau Mot de Passe :</label>
+        <input type="password" id="pwd" name="pwd">
+
+        <label for="dateN" class="l">Nouvelle Date de naissance :</label>
+        <input type="date" id="dateN" name="dateN">
+
+        <p id="errors-msg" style="color: rgb(255, 0, 0);"></p>
+        <p id="error-msg" style="color: red;"></p>
+        <p id="succ-msg" style="color: rgb(0, 255, 145);"></p>
+
+        <div class="button-container">
+            <button class="su" type="submit">Modifier</button>
+            <button class="re" type="reset">Réinisialiser</button>
+        </div>
+    </form>
+   
+</body>
+</html>

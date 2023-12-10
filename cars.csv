@@ -1,0 +1,237 @@
+Manufacturer,Price,Levy,Model,Category,Leather interior,Fuel type,Engine volume,Mileage,Cylinders,Gear box type,Drive wheels,Wheel,Color,Airbags,Age
+TOYOTA,549,1079.0,CHR,Jeep,Yes,Petrol,2.0,74146,4.0,Automatic,Front,Left wheel,White,12,5
+TOYOTA,51746,1077.0,CHR Limited,Jeep,No,Petrol,2.0,10200,4.0,Tiptronic,Front,Left wheel,Red,12,4
+MERCEDES-BENZ,87112,0.0,GLA 250,Jeep,Yes,Petrol,2.0,5323,4.0,Tiptronic,4x4,Left wheel,Grey,0,4
+CHEVROLET,23521,781.0,Cruze LT,Sedan,No,Petrol,1.4,22000,4.0,Automatic,Front,Left wheel,Red,6,5
+TOYOTA,7527,830.0,Yaris,Sedan,Yes,Petrol,1.5,27656,4.0,Automatic,Front,Left wheel,White,12,4
+TOYOTA,18817,609.0,Camry,Sedan,Yes,Hybrid,2.5,35058,4.0,Automatic,Front,Left wheel,White,12,5
+LEXUS,72130,1079.0,NX 300,Jeep,Yes,Petrol,2.0,18918,4.0,Tiptronic,Front,Left wheel,Black,6,5
+TOYOTA,21012,1823.0,Tacoma,Sedan,Yes,Petrol,3.5,27358,6.0,Automatic,Front,Left wheel,Grey,12,5
+MAZDA,470,1077.0,1000,Jeep,Yes,Petrol,2.0,11566,4.0,Automatic,4x4,Left wheel,Black,12,4
+AUDI,1300,0.0,50,Coupe,Yes,Petrol,0.5,4000,1.0,Tiptronic,Rear,Right-hand drive,Blue,0,5
+TOYOTA,56450,0.0,Camry Se,Sedan,Yes,Petrol,2.5,25000,4.0,Tiptronic,Front,Left wheel,Blue,12,5
+PORSCHE,3058,1872.0,Cayenne,Sedan,Yes,Petrol,3.6,28968,6.0,Automatic,4x4,Left wheel,White,12,5
+HYUNDAI,59865,879.0,Tucson,Jeep,Yes,Diesel,1.6,13000,4.0,Automatic,Front,Left wheel,White,4,4
+HYUNDAI,68223,1327.0,H1,Universal,Yes,Diesel,2.5,27406,4.0,Automatic,Front,Left wheel,Yellow,4,5
+HYUNDAI,36426,880.0,Elantra,Sedan,Yes,LPG,1.6,35643,4.0,Automatic,Front,Left wheel,White,4,5
+HYUNDAI,2901,1277.0,Sonata,Sedan,Yes,Petrol,2.4,45494,4.0,Automatic,Front,Left wheel,White,12,5
+CHEVROLET,21169,781.0,Cruze,Sedan,No,Petrol,1.4,25304,4.0,Automatic,Front,Left wheel,Brown,8,5
+MERCEDES-BENZ,84675,0.0,GLC 300,Sedan,Yes,Petrol,2.0,4500,6.0,Tiptronic,Rear,Left wheel,Black,12,5
+HYUNDAI,80911,1325.0,H1,Minivan,Yes,Diesel,2.5,25541,4.0,Automatic,Front,Left wheel,Black,4,4
+TOYOTA,300,0.0,Land Cruiser Prado,Jeep,Yes,Petrol,2.7,120,4.0,Automatic,4x4,Left wheel,White,10,4
+HONDA,38213,1079.0,Civic,Sedan,Yes,Petrol,2.0,0,4.0,Automatic,Front,Left wheel,White,4,5
+FORD,1333,1079.0,Focus,Sedan,Yes,Petrol,2.0,107664,4.0,Automatic,Front,Left wheel,Black,12,5
+TOYOTA,53000,1325.0,Camry SE,Sedan,Yes,Petrol,2.5,500,4.0,Tiptronic,Front,Left wheel,Black,12,4
+TOYOTA,2822,978.0,Corolla,Sedan,Yes,Petrol,1.8,39254,4.0,Automatic,Front,Left wheel,White,12,4
+NISSAN,30000,0.0,X-Trail,Pickup,Yes,Petrol,2.5,18794,12.0,Automatic,4x4,Left wheel,Black,12,5
+HONDA,2587,830.0,Accord,Coupe,Yes,Petrol,1.5,16666,4.0,Automatic,Front,Left wheel,Black,12,4
+TOYOTA,57030,831.0,Aqua,Hatchback,Yes,Petrol,1.5,5000,4.0,Automatic,Front,Left wheel,Green,4,5
+BMW,10192,1079.0,114,Sedan,Yes,Petrol,2.0,38282,4.0,Automatic,4x4,Left wheel,White,12,5
+KIA,12074,1273.0,Sportage,Sedan,Yes,Petrol,2.4,2741,4.0,Automatic,4x4,Left wheel,Silver,12,3
+TOYOTA,9879,463.0,Prius,Sedan,Yes,Hybrid,1.8,0,4.0,Automatic,Front,Left wheel,Black,12,5
+HYUNDAI,45473,0.0,kona,Jeep,No,Petrol,2.0,1300,4.0,Tiptronic,Front,Left wheel,White,8,5
+JEEP,392,1872.0,Grand Cherokee,Sedan,Yes,Petrol,3.6,30606,6.0,Automatic,Front,Left wheel,Grey,12,5
+JEEP,627,1275.0,Cherokee,Sedan,Yes,Petrol,2.4,61998,4.0,Automatic,Front,Left wheel,Grey,12,4
+TOYOTA,392,1327.0,RAV 4,Jeep,Yes,Petrol,2.5,20267,4.0,Automatic,Front,Left wheel,Grey,12,5
+KIA,51746,0.0,Ceed,Universal,No,Petrol,1.6,4000,4.0,Automatic,Front,Left wheel,White,5,4
+MERCEDES-BENZ,627220,0.0,G 65 AMG 63AMG,Jeep,Yes,Petrol,6.3,0,8.0,Tiptronic,4x4,Left wheel,Black,12,3
+MITSUBISHI,21953,505.0,Outlander,Jeep,Yes,Hybrid,2.0,59674,4.0,Automatic,4x4,Left wheel,Black,12,5
+GMC,35752,3156.0,Yukon,Sedan,Yes,Petrol,6.2,11325,8.0,Automatic,Front,Left wheel,White,12,4
+HONDA,74796,830.0,Civic,Hatchback,Yes,Petrol,1.5,12000,4.0,Automatic,Front,Left wheel,Black,4,4
+HYUNDAI,131308,1968.0,Santa FE,Jeep,Yes,Petrol,3.8,21281,4.0,Automatic,Front,Left wheel,White,4,4
+KIA,87497,0.0,Sportage,Jeep,Yes,Petrol,2.4,0,4.0,Tiptronic,4x4,Left wheel,Grey,6,4
+HYUNDAI,11133,1277.0,Santa FE,Sedan,Yes,Petrol,2.4,56150,4.0,Automatic,Front,Left wheel,Blue,12,5
+MITSUBISHI,112900,0.0,Pajero Sport,Jeep,Yes,Petrol,3.0,6000,6.0,Tiptronic,4x4,Left wheel,White,10,4
+HONDA,34889,831.0,Civic,Coupe,Yes,Petrol,1.5,16125,4.0,Automatic,Front,Left wheel,Black,4,5
+SSANGYONG,41281,880.0,Actyon,Jeep,Yes,Petrol,1.6,52349,4.0,Automatic,Front,Left wheel,White,4,5
+DODGE,12074,1869.0,Avenger,Sedan,Yes,Petrol,3.6,32453,6.0,Automatic,Front,Left wheel,Grey,12,4
+MERCEDES-BENZ,29793,1823.0,GLE 350,Jeep,Yes,Petrol,3.5,9765,6.0,Automatic,Rear,Left wheel,White,12,5
+LEXUS,549,607.0,ES 300,Sedan,Yes,Hybrid,2.5,13362,4.0,Automatic,Front,Left wheel,Black,12,4
+CHEVROLET,3450,1869.0,Impala,Sedan,Yes,Petrol,3.6,18438,6.0,Automatic,Front,Left wheel,Silver,12,4
+TESLA,53941,87.0,Model X,Sedan,Yes,Petrol,0.0,81907,6.0,Automatic,4x4,Left wheel,Silver,12,5
+CADILLAC,19130,1869.0,Allante,Sedan,Yes,Petrol,3.6,41198,6.0,Automatic,4x4,Left wheel,Silver,12,4
+HONDA,27284,830.0,FIT,Hatchback,No,Petrol,1.5,1500,4.0,Automatic,Front,Left wheel,Yellow,6,4
+MERCEDES-BENZ,116036,1325.0,X 250,Pickup,Yes,Diesel,2.5,102,4.0,Automatic,4x4,Left wheel,Silver,12,4
+CHEVROLET,18817,400.0,Volt,Sedan,Yes,Hybrid,1.5,70720,4.0,Automatic,Front,Left wheel,Black,12,5
+HYUNDAI,83107,1325.0,H1,Microbus,Yes,Diesel,2.5,21442,4.0,Automatic,Front,Left wheel,White,4,4
+MAZDA,35438,1325.0,CX-9,Sedan,Yes,Petrol,2.5,11746,4.0,Automatic,Front,Left wheel,Grey,12,4
+FORD,5802,505.0,Fusion,Jeep,Yes,Hybrid,2.0,53013,4.0,Automatic,Front,Left wheel,Grey,12,5
+HONDA,21000,2265.0,Fred,Minivan,Yes,Petrol,1.5,6800,4.0,Automatic,Front,Right-hand drive,Grey,2,4
+CHEVROLET,4077,780.0,1500,Sedan,Yes,Petrol,1.4,1232,4.0,Automatic,Front,Left wheel,Black,12,4
+TOYOTA,172486,0.0,Land Cruiser,Jeep,Yes,Diesel,4.7,13000,12.0,Automatic,4x4,Left wheel,White,16,5
+TOYOTA,251,607.0,Camry,Jeep,Yes,Hybrid,2.5,56834,4.0,Automatic,Front,Left wheel,Black,12,4
+HYUNDAI,314,420.0,Accent,Sedan,Yes,Hybrid,1.6,14587,4.0,Automatic,Front,Left wheel,Black,12,4
+CHEVROLET,5018,830.0,Malibu,Coupe,Yes,Petrol,1.5,8710,4.0,Automatic,Front,Left wheel,Black,12,4
+TOYOTA,6586,1077.0,CHR,Coupe,Yes,Petrol,2.0,5219,4.0,Automatic,Front,Left wheel,White,12,4
+HONDA,124989,1077.0,Civic,Universal,Yes,Petrol,2.0,5492,4.0,Automatic,Front,Left wheel,Black,4,4
+LEXUS,10349,1820.0,ES 350,Sedan,Yes,Petrol,3.5,13147,6.0,Automatic,Front,Left wheel,White,12,4
+KIA,549,1079.0,SOUL,Sedan,Yes,Petrol,2.0,91283,4.0,Automatic,Front,Left wheel,White,12,5
+TOYOTA,21012,831.0,Yaris IA,Sedan,Yes,Petrol,1.5,20549,4.0,Automatic,Front,Left wheel,Grey,10,5
+NISSAN,1490,980.0,Sentra,Sedan,Yes,Petrol,1.8,11469,4.0,Automatic,Front,Left wheel,Black,12,5
+MAZDA,3136,1327.0,616,Jeep,Yes,Petrol,2.5,67066,4.0,Automatic,Front,Left wheel,White,12,5
+SUBARU,30107,1327.0,Forester,Jeep,No,Petrol,2.5,80000,4.0,Automatic,4x4,Left wheel,Blue,12,5
+MERCEDES-BENZ,156805,0.0,GLS 450,Jeep,Yes,Petrol,3.0,31000,6.0,Tiptronic,4x4,Left wheel,Black,0,5
+CHEVROLET,16621,781.0,Cruze LS,Sedan,No,Petrol,1.4,12532,4.0,Automatic,Front,Left wheel,Black,8,5
+CADILLAC,4391,1077.0,CTS,Sedan,Yes,Petrol,2.0,21659,4.0,Automatic,4x4,Left wheel,Black,12,4
+CHEVROLET,22580,830.0,Equinox LT,Jeep,No,Petrol,1.5,5124,4.0,Automatic,4x4,Left wheel,Black,10,4
+NISSAN,21326,1325.0,Altima,Sedan,Yes,Petrol,2.5,30296,4.0,Automatic,Front,Left wheel,Grey,12,4
+TOYOTA,15000,1539.0,Sienta,Minivan,No,Petrol,1.0,0,3.0,Automatic,Front,Right-hand drive,White,4,5
+CHEVROLET,28100,781.0,Cruze,Hatchback,Yes,Petrol,1.4,21000,4.0,Tiptronic,Front,Left wheel,White,10,5
+AUDI,37947,1575.0,Q7,Jeep,Yes,Petrol,3.0,49122,6.0,Automatic,4x4,Left wheel,Silver,12,5
+TOYOTA,41867,400.0,Aqua,Universal,Yes,Hybrid,1.5,35039,4.0,Automatic,Front,Left wheel,Blue,4,5
+HYUNDAI,3763,420.0,Ioniq,Hatchback,Yes,Hybrid,1.6,29450,4.0,Automatic,Front,Left wheel,Grey,12,4
+TOYOTA,470,1077.0,Century,Jeep,Yes,Petrol,2.0,10610,4.0,Automatic,Front,Left wheel,Silver,12,4
+CHEVROLET,47408,1079.0,Orlando,Jeep,Yes,LPG,2.0,33000,4.0,Automatic,Front,Left wheel,Silver,4,5
+CHEVROLET,63826,1077.0,Malibu,Sedan,Yes,Petrol,2.0,9101,4.0,Automatic,Front,Left wheel,Grey,4,4
+MERCEDES-BENZ,121524,3057.0,CLS 55 AMG,Sedan,Yes,Petrol,6.0,0,12.0,Automatic,Rear,Left wheel,Black,12,4
+FORD,118519,1228.0,Explorer,Jeep,Yes,Petrol,2.3,14263,4.0,Automatic,Front,Left wheel,White,4,5
+KIA,1646,880.0,RIO,Jeep,Yes,Petrol,1.6,65451,4.0,Automatic,Front,Left wheel,Black,12,5
+HONDA,11290,831.0,Accord,Sedan,Yes,Petrol,1.5,60062,4.0,Automatic,Front,Left wheel,Black,12,5
+TOYOTA,40769,463.0,Prius,Hatchback,Yes,Hybrid,1.8,2102,4.0,Automatic,Front,Left wheel,White,12,5
+NISSAN,24775,880.0,Kicks,Jeep,No,Petrol,1.6,8000,4.0,Tiptronic,Front,Left wheel,Grey,0,5
+SUBARU,1882,1327.0,Outback,Sedan,Yes,Petrol,2.5,0,4.0,Automatic,4x4,Left wheel,Silver,12,5
+SUZUKI,46414,0.0,Vitara GL+,Jeep,No,Petrol,1.0,4800,3.0,Tiptronic,Front,Left wheel,Golden,10,4
+GMC,14269,1077.0,TERRAIN,Sedan,Yes,Petrol,2.0,35898,4.0,Automatic,Front,Left wheel,Black,12,4
+TOYOTA,470,2070.0,4Runner,Jeep,Yes,Petrol,4.0,58971,6.0,Automatic,4x4,Left wheel,Silver,12,5
+HYUNDAI,17876,1077.0,Tucson,Sedan,Yes,Petrol,2.0,31200,4.0,Automatic,4x4,Left wheel,Blue,12,4
+NISSAN,2587,880.0,Versa,Sedan,Yes,Petrol,1.6,0,4.0,Automatic,Front,Left wheel,Grey,12,5
+MAZDA,51746,1327.0,CX-5,Jeep,No,Petrol,2.5,20000,4.0,Tiptronic,4x4,Left wheel,Black,12,5
+TOYOTA,470,1820.0,Highlander,Sedan,Yes,Petrol,3.5,10670,6.0,Automatic,4x4,Left wheel,Brown,12,4
+MERCEDES-BENZ,109764,0.0,X 250 ევროპული,Pickup,Yes,Diesel,2.5,43000,8.0,Automatic,4x4,Left wheel,Blue,0,5
+LEXUS,3293,1823.0,RX 350,Jeep,Yes,Petrol,3.5,8618,6.0,Automatic,Front,Left wheel,Black,12,5
+MITSUBISHI,1333,1275.0,Outlander,Sedan,Yes,Petrol,2.4,4677,4.0,Automatic,4x4,Left wheel,Black,12,4
+CHEVROLET,2509,781.0,1500,Coupe,Yes,Petrol,1.4,29763,4.0,Automatic,4x4,Left wheel,Silver,12,5
+PORSCHE,46414,1079.0,macan,Sedan,Yes,Petrol,2.0,28840,4.0,Automatic,4x4,Left wheel,Blue,12,5
+KIA,38888,421.0,Niro,Jeep,No,Hybrid,1.6,62347,4.0,Automatic,Front,Left wheel,Black,10,5
+LEXUS,55195,1823.0,RX 350,Sedan,Yes,Petrol,3.5,15744,6.0,Automatic,4x4,Left wheel,White,12,5
+TOYOTA,392,1327.0,RAV 4,Sedan,Yes,Petrol,2.5,53611,4.0,Automatic,4x4,Left wheel,Red,11,5
+SUBARU,10663,1327.0,Forester,Sedan,Yes,Petrol,2.5,32435,4.0,Automatic,4x4,Left wheel,Black,12,5
+SUBARU,282,1327.0,Outback,Hatchback,Yes,Petrol,2.5,41794,4.0,Automatic,4x4,Left wheel,Silver,12,5
+FORD,10192,505.0,Fusion,Sedan,Yes,Hybrid,2.0,28813,4.0,Automatic,Front,Left wheel,Blue,12,5
+CHEVROLET,28225,2711.0,Suburban,Sedan,Yes,Petrol,5.3,19901,8.0,Automatic,Front,Left wheel,Black,12,4
+AUDI,21950,1079.0,A3 4X4,Sedan,Yes,Petrol,2.0,18283,4.0,Automatic,4x4,Left wheel,Black,10,5
+SUZUKI,45009,681.0,Swift,Hatchback,No,Petrol,1.2,0,4.0,Variator,Front,Left wheel,Red,0,4
+VOLKSWAGEN,12544,1872.0,"1500,1600 Schtufenheck",Sedan,Yes,Petrol,3.6,66086,6.0,Automatic,Front,Left wheel,Grey,12,5
+HONDA,20698,831.0,Cr-v,Sedan,Yes,Petrol,1.5,56261,4.0,Automatic,4x4,Left wheel,Blue,12,5
+NISSAN,29950,880.0,Kicks SR,Jeep,Yes,Petrol,1.6,9410,4.0,Automatic,Front,Left wheel,Red,9,5
+MITSUBISHI,33870,1079.0,Outlander sport,Jeep,No,Petrol,2.0,4320,4.0,Tiptronic,4x4,Left wheel,Grey,10,5
+VOLKSWAGEN,39201,780.0,Jetta,Sedan,Yes,Petrol,1.4,5000,4.0,Automatic,Front,Left wheel,Grey,16,4
+MERCEDES-BENZ,3,0.0,G 55 AMG,Jeep,Yes,LPG,1.8,1212,12.0,Manual,4x4,Left wheel,Purple,0,3
+MERCEDES-BENZ,228935,0.0,GLE 63 AMG,Jeep,Yes,Petrol,5.5,23000,8.0,Tiptronic,4x4,Left wheel,Black,16,5
+JEEP,8154,1277.0,Compass,Sedan,Yes,Petrol,2.4,12520,4.0,Automatic,Front,Left wheel,Green,12,5
+SUBARU,7213,1077.0,Crosstrek,Sedan,Yes,Petrol,2.0,6384,4.0,Automatic,4x4,Left wheel,Blue,12,4
+PORSCHE,25716,1079.0,Cayman,Jeep,Yes,Petrol,2.0,1166,4.0,Automatic,Rear,Left wheel,White,12,5
+MERCEDES-BENZ,32615,1077.0,A 140,Sedan,Yes,Petrol,2.0,15235,4.0,Automatic,Rear,Left wheel,Blue,12,4
+VOLKSWAGEN,26814,781.0,Jetta SE,Sedan,No,Petrol,1.4,6380,4.0,Automatic,Front,Left wheel,White,8,5
+BMW,288521,2269.0,M5 Машина в максимально,Sedan,Yes,Petrol,4.4,13500,8.0,Tiptronic,4x4,Left wheel,Black,0,5
+SKODA,37633,0.0,Octavia,Sedan,No,Petrol,1.6,5500,4.0,Automatic,Front,Left wheel,White,6,4
+VOLKSWAGEN,36065,1079.0,Passat RLAINI,Sedan,Yes,Petrol,2.0,68800,4.0,Tiptronic,Front,Left wheel,Grey,6,5
+MAZDA,627,1325.0,CX-9,Jeep,Yes,Petrol,2.5,14186,4.0,Automatic,Front,Left wheel,White,12,4
+JEEP,147397,1869.0,Wrangler,Jeep,Yes,Petrol,3.6,18000,6.0,Automatic,4x4,Left wheel,Grey,16,4
+LEXUS,72130,2364.0,GX 460,Jeep,Yes,Petrol,4.6,26138,8.0,Automatic,4x4,Left wheel,White,10,4
+BMW,28852,1079.0,X1,Jeep,Yes,Petrol,2.0,68126,4.0,Automatic,4x4,Left wheel,White,12,5
+CHEVROLET,15367,781.0,Trax,Jeep,Yes,Petrol,1.4,1405,4.0,Automatic,4x4,Left wheel,Black,8,5
+JEEP,42337,1277.0,Compass,Jeep,Yes,Petrol,2.4,16500,4.0,Automatic,4x4,Left wheel,Black,12,5
+CHEVROLET,28539,2715.0,Silverado,Jeep,Yes,Petrol,5.3,28890,8.0,Automatic,Front,Left wheel,Red,12,5
+MERCEDES-BENZ,470,1079.0,CLA 250,Hatchback,Yes,Petrol,2.0,15806,4.0,Automatic,Front,Left wheel,Red,12,5
+LAMBORGHINI,872946,2067.0,Urus,Universal,Yes,Petrol,4.0,2531,8.0,Tiptronic,4x4,Left wheel,Black,0,4
+LINCOLN,470,1426.0,Continental,Sedan,Yes,Petrol,2.7,25790,6.0,Automatic,Front,Left wheel,White,12,5
+JAGUAR,392,1079.0,F-pace,Jeep,Yes,Petrol,2.0,26726,4.0,Automatic,4x4,Left wheel,Blue,12,5
+TOYOTA,314,1079.0,4Runner,Sedan,Yes,Petrol,2.0,33122,4.0,Automatic,Front,Left wheel,Blue,12,5
+DODGE,16935,1869.0,Ramcharger,Sedan,Yes,Petrol,3.6,22293,6.0,Automatic,Rear,Left wheel,Grey,12,4
+TOYOTA,26971,1823.0,Highlander,Jeep,Yes,Petrol,3.5,47002,6.0,Automatic,4x4,Left wheel,White,12,5
+HONDA,19757,1820.0,Odyssey,Sedan,Yes,Petrol,3.5,13994,6.0,Automatic,Front,Left wheel,Black,12,4
+JAGUAR,101923,0.0,E-pace p200,Jeep,No,Petrol,2.0,0,4.0,Tiptronic,4x4,Left wheel,Black,12,3
+HYUNDAI,95739,1176.0,Santa FE,Minivan,Yes,Petrol,2.2,9087,4.0,Automatic,Front,Left wheel,Blue,4,4
+VOLKSWAGEN,9565,1079.0,Tiguan,Sedan,Yes,Petrol,2.0,70098,4.0,Automatic,Front,Left wheel,Black,12,5
+PORSCHE,172486,0.0,macan,Jeep,Yes,Petrol,2.0,7400,6.0,Tiptronic,4x4,Left wheel,Black,15,4
+HONDA,31211,400.0,FIT,Universal,Yes,Hybrid,1.5,57809,4.0,Automatic,Front,Left wheel,Black,4,5
+BUICK,941,1325.0,Century,Sedan,Yes,Petrol,2.5,2642,4.0,Automatic,4x4,Left wheel,Black,12,4
+KIA,1333,1277.0,Optima,Sedan,Yes,Petrol,2.4,52710,4.0,Automatic,Front,Left wheel,Blue,12,5
+MITSUBISHI,31047,1275.0,Outlander Sport,Jeep,No,Petrol,2.4,2400,4.0,Tiptronic,4x4,Left wheel,Black,10,4
+VAZ,15681,0.0,Vesta,Sedan,No,Petrol,1.6,35000,6.0,Tiptronic,Front,Left wheel,Black,12,5
+FORD,7840,1426.0,F150,Sedan,Yes,Petrol,2.7,2792,6.0,Automatic,Rear,Left wheel,White,12,5
+FORD,13015,830.0,Escape,Sedan,Yes,Petrol,1.5,4309,4.0,Automatic,Front,Left wheel,White,12,4
+BMW,103491,0.0,X5,Jeep,Yes,Diesel,2.5,59364,6.0,Tiptronic,4x4,Left wheel,Blue,12,5
+FORD,24462,831.0,Fusion SE,Sedan,Yes,Petrol,1.5,7368,4.0,Automatic,Front,Left wheel,White,8,5
+BMW,1019,1077.0,X3,Sedan,Yes,Petrol,2.0,33870,4.0,Automatic,Rear,Left wheel,White,12,4
+LAND ROVER,150533,1575.0,Range Rover Velar,Jeep,Yes,Petrol,3.0,22000,6.0,Tiptronic,4x4,Left wheel,White,12,5
+KIA,22894,1723.0,Sorento,Sedan,Yes,Petrol,3.3,49646,6.0,Automatic,Front,Left wheel,Grey,12,5
+FORD,26657,830.0,Escape,Jeep,No,Petrol,1.5,74000,8.0,Tiptronic,Front,Left wheel,Grey,9,4
+MITSUBISHI,1411,682.0,Mirage,Sedan,Yes,Petrol,1.2,7430,3.0,Automatic,Front,Left wheel,Grey,12,5
+LEXUS,260296,0.0,LX 570,Jeep,Yes,Petrol,5.7,17700,8.0,Tiptronic,4x4,Left wheel,Black,10,5
+MERCEDES-BENZ,65545,1079.0,GLC 300,Jeep,Yes,Petrol,2.0,12000,12.0,Tiptronic,Rear,Left wheel,Black,12,5
+TOYOTA,72130,609.0,Camry Hybrid,Sedan,No,Hybrid,2.5,27000,4.0,Tiptronic,Front,Left wheel,Black,12,5
+TOYOTA,15000,2265.0,Corolla,Universal,No,Hybrid,1.5,22000,4.0,Tiptronic,Front,Right-hand drive,White,0,4
+JAGUAR,125444,0.0,E-pace,Jeep,Yes,Petrol,2.0,22720,6.0,Tiptronic,4x4,Left wheel,White,12,5
+TOYOTA,62095,714.0,Avalon,Sedan,Yes,Hybrid,3.0,80000,8.0,Variator,Front,Left wheel,Grey,10,5
+HYUNDAI,31047,1077.0,Veloster,Hatchback,No,Petrol,2.0,12000,4.0,Tiptronic,Front,Left wheel,White,12,4
+SUBARU,3450,1325.0,Outback,Jeep,Yes,Petrol,2.5,15480,4.0,Automatic,4x4,Left wheel,White,12,4
+CHEVROLET,13322,583.0,Spark,Hatchback,Yes,Petrol,1.0,62499,4.0,Automatic,Front,Left wheel,White,4,5
+MERCEDES-BENZ,87027,1572.0,CLS 55 AMG,Coupe,Yes,Petrol,3.0,0,6.0,Automatic,4x4,Left wheel,Black,12,4
+CHEVROLET,10349,830.0,Equinox,Sedan,Yes,Petrol,1.5,17051,4.0,Automatic,Front,Left wheel,White,12,4
+FORD,3763,879.0,Fiesta,Sedan,Yes,Petrol,1.6,47736,4.0,Automatic,Front,Left wheel,Grey,12,4
+NISSAN,706,1325.0,Altima,Jeep,Yes,Petrol,2.5,30555,4.0,Automatic,Front,Left wheel,Silver,12,4
+NISSAN,25000,0.0,Qashqai Advance CVT,Jeep,Yes,Petrol,2.0,35447,4.0,Automatic,4x4,Left wheel,Red,12,5
+MERCEDES-BENZ,78403,0.0,C 300,Sedan,Yes,Petrol,2.0,10000,4.0,Tiptronic,Rear,Left wheel,White,12,5
+HONDA,18000,399.0,Shuttle,Hatchback,No,Hybrid,1.5,9000,4.0,Automatic,4x4,Left wheel,Silver,6,4
+MITSUBISHI,27441,831.0,Eclipse ES,Jeep,No,Petrol,1.5,17123,4.0,Automatic,4x4,Left wheel,Silver,8,5
+MITSUBISHI,94083,0.0,Pajero,Jeep,Yes,Diesel,3.0,0,6.0,Automatic,4x4,Left wheel,Black,12,3
+FORD,15524,583.0,Focus se,Sedan,No,Petrol,1.0,12459,3.0,Automatic,Front,Left wheel,Black,8,5
+MAZDA,50805,1327.0,Mazda 6,Sedan,Yes,Petrol,2.5,53277,4.0,Automatic,Front,Left wheel,Grey,0,5
+SUZUKI,40769,0.0,Vitara,Jeep,No,Petrol,1.6,48600,4.0,Manual,4x4,Left wheel,White,6,5
+FORD,137885,2566.0,Mustang,Coupe,Yes,Petrol,5.0,15305,4.0,Automatic,Front,Left wheel,Black,4,5
+FORD,18033,583.0,EcoSport,Jeep,No,Petrol,1.0,8813,3.0,Automatic,4x4,Left wheel,Red,8,5
+MERCEDES-BENZ,58018,0.0,CLA 250,Sedan,Yes,Petrol,2.0,44000,4.0,Automatic,Front,Left wheel,Black,10,5
+MITSUBISHI,74639,0.0,L 200,Pickup,No,Diesel,2.5,0,4.0,Manual,4x4,Left wheel,Grey,4,4
+MERCEDES-BENZ,193184,0.0,"GLE 400 Coupe, AMG Kit",Jeep,Yes,Petrol,3.0,20000,6.0,Automatic,4x4,Left wheel,Silver,12,5
+NISSAN,7840,0.0,Tiida,Hatchback,Yes,Petrol,1.5,116000,4.0,Automatic,Front,Right-hand drive,Silver,6,3
+CHEVROLET,35438,831.0,Equinox,Jeep,No,Petrol,1.5,9000,4.0,Tiptronic,4x4,Left wheel,Black,8,5
+MERCEDES-BENZ,141124,0.0,GLC 250,Jeep,Yes,Petrol,2.0,37554,8.0,Tiptronic,4x4,Left wheel,Black,12,5
+FIAT,23521,0.0,500 Abarth,Hatchback,Yes,Petrol,1.4,0,4.0,Variator,Front,Left wheel,Black,12,5
+MAZDA,9408,1325.0,1000,Sedan,Yes,Petrol,2.5,498,4.0,Automatic,Front,Left wheel,White,12,4
+FORD,19130,0.0,Fiesta,Hatchback,No,Petrol,1.6,12800,4.0,Automatic,Front,Left wheel,Blue,4,5
+BUICK,10192,1869.0,Enclave,Sedan,Yes,Petrol,3.6,25706,6.0,Automatic,4x4,Left wheel,Black,12,4
+TOYOTA,35124,2909.0,Tundra,Pickup,Yes,Petrol,5.7,34059,8.0,Automatic,Rear,Left wheel,Silver,12,4
+BMW,24462,505.0,530,Sedan,Yes,Hybrid,2.0,45525,4.0,Automatic,Rear,Left wheel,Grey,12,5
+FORD,7997,2566.0,Mustang,Jeep,Yes,Petrol,5.0,39576,8.0,Automatic,Rear,Left wheel,Black,12,5
+SUBARU,29166,0.0,Impreza Sport,Hatchback,No,Petrol,2.0,42000,4.0,Manual,4x4,Left wheel,Red,6,5
+TOYOTA,68994,1823.0,Hilux,Pickup,No,Petrol,3.5,12000,6.0,Tiptronic,4x4,Left wheel,Grey,12,5
+LAND ROVER,297930,0.0,Range Rover Vogue,Jeep,Yes,Diesel,3.0,4500,8.0,Tiptronic,4x4,Left wheel,Black,12,4
+TOYOTA,370,0.0,Land Cruiser 200,Jeep,Yes,Petrol,4.0,15000,8.0,Automatic,4x4,Left wheel,Black,12,5
+HYUNDAI,39201,0.0,Santa FE sport,Jeep,Yes,Petrol,2.4,12000,4.0,Automatic,4x4,Left wheel,Green,12,5
+CHEVROLET,10976,2715.0,Silverado,Sedan,Yes,Petrol,5.3,0,8.0,Automatic,Front,Left wheel,Blue,12,5
+TOYOTA,37633,0.0,Corolla se,Sedan,Yes,Petrol,1.8,18000,4.0,Tiptronic,Front,Left wheel,Silver,12,5
+PEUGEOT,80000,0.0,3008 2.0,Jeep,Yes,Diesel,2.0,3237,4.0,Automatic,4x4,Left wheel,Grey,10,5
+FORD,5331,1823.0,Taurus,Jeep,Yes,Petrol,3.5,12824,6.0,Automatic,4x4,Left wheel,White,12,5
+BMW,153669,1823.0,M3,Sedan,Yes,Petrol,3.5,3900,12.0,Manual,Rear,Left wheel,Black,16,5
+SUZUKI,75300,830.0,Jimny GLX,Jeep,No,Petrol,1.5,0,4.0,Automatic,4x4,Left wheel,Silver,0,4
+CHEVROLET,314,1869.0,Traverse,Sedan,Yes,Petrol,3.6,37480,6.0,Automatic,Front,Left wheel,Grey,12,4
+MERCEDES-BENZ,89379,1079.0,E 300,Sedan,Yes,Petrol,2.0,21000,4.0,Automatic,Rear,Left wheel,Black,0,5
+TOYOTA,34497,1325.0,Camry se,Sedan,Yes,Petrol,2.5,19050,4.0,Automatic,Front,Left wheel,Silver,12,4
+MERCEDES-BENZ,74953,2418.0,SL 55 AMG,Sedan,Yes,Petrol,4.7,29819,8.0,Automatic,Rear,Left wheel,Black,12,5
+CHEVROLET,470,780.0,Cruze,Minivan,Yes,Petrol,1.4,43371,4.0,Automatic,Front,Left wheel,Silver,12,4
+NISSAN,43592,0.0,Rogue SPORT,Jeep,Yes,Petrol,2.0,70000,4.0,Tiptronic,4x4,Left wheel,Grey,12,5
+KIA,3293,1277.0,Sorento,Jeep,Yes,Petrol,2.4,57618,4.0,Automatic,Front,Left wheel,Purple,12,5
+TOYOTA,31047,400.0,Prius C,Hatchback,No,Hybrid,1.5,10000,4.0,Automatic,Front,Left wheel,Grey,8,5
+HYUNDAI,9565,1275.0,Sonata,Jeep,Yes,Petrol,2.4,1446,4.0,Automatic,Front,Left wheel,Black,12,4
+KIA,16308,1079.0,Avella,Sedan,Yes,Petrol,2.0,56288,4.0,Automatic,Rear,Left wheel,Silver,12,5
+SUBARU,21953,1079.0,Crosstrek,Universal,Yes,Petrol,2.0,30400,4.0,Variator,4x4,Left wheel,Orange,10,5
+CHEVROLET,470,781.0,Cruze,Goods wagon,Yes,Petrol,1.4,87568,4.0,Automatic,Front,Left wheel,White,12,5
+FORD,90947,0.0,Ranger Wildtrak,Pickup,Yes,Diesel,3.2,11000,5.0,Automatic,4x4,Left wheel,Grey,8,4
+NISSAN,39201,1327.0,Rogue,Jeep,No,Petrol,2.5,12000,4.0,Automatic,4x4,Left wheel,White,8,5
+CHEVROLET,93079,1866.0,Colorado,Pickup,Yes,Petrol,3.6,3510,4.0,Automatic,Front,Left wheel,Grey,4,3
+MERCEDES-BENZ,15994,2070.0,S 63 AMG,Hatchback,Yes,Petrol,4.0,40110,8.0,Automatic,4x4,Left wheel,White,12,5
+CHEVROLET,52034,1079.0,Captiva,Jeep,Yes,Diesel,2.0,19698,4.0,Automatic,Front,Left wheel,Black,4,5
+TOYOTA,135,0.0,Corolla 140,Sedan,No,Petrol,1.6,18,4.0,Variator,Front,Left wheel,Black,12,4
+MERCEDES-BENZ,300,0.0,Sprinter,Microbus,No,Petrol,0.1,0,1.0,Manual,Rear,Left wheel,Beige,0,3
+BMW,2666,1079.0,320,Sedan,Yes,Petrol,2.0,25323,4.0,Automatic,4x4,Left wheel,Black,12,5
+MERCEDES-BENZ,136000,1575.0,GLE 400,Jeep,Yes,Petrol,3.0,99000,6.0,Tiptronic,4x4,Left wheel,White,10,5
+JEEP,127000,0.0,Cherokee,Jeep,Yes,Diesel,3.0,26713,6.0,Automatic,4x4,Left wheel,Grey,12,5
+KIA,15994,1275.0,Optima,Jeep,Yes,Petrol,2.4,11213,4.0,Automatic,Front,Left wheel,Red,12,4
+KIA,706,420.0,Niro,Sedan,Yes,Hybrid,1.6,2942,4.0,Automatic,Front,Left wheel,Red,12,4
+JEEP,5175,1277.0,Renegade,Sedan,Yes,Petrol,2.4,80285,4.0,Automatic,Front,Left wheel,Blue,12,5
+FORD,12858,1228.0,Mustang,Sedan,Yes,Petrol,2.3,26642,4.0,Automatic,Rear,Left wheel,Red,12,5
+NISSAN,15681,880.0,Versa SE,Sedan,No,Petrol,1.6,6487,4.0,Automatic,Front,Left wheel,Silver,6,5
+HONDA,18817,830.0,FIT LX,Hatchback,No,Petrol,1.5,1532,4.0,Automatic,Front,Left wheel,White,8,4
+MINI,51118,1079.0,Countryman S,Hatchback,Yes,Petrol,2.0,4093,4.0,Tiptronic,Front,Left wheel,White,12,5
